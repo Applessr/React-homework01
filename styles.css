@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.sub {
+    color: rgba(147, 166, 182, 0.674);
+    padding: 10px;
+    font-size: 22px
+}
